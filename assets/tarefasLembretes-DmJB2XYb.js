@@ -1,1 +1,0 @@
-import{X as o,M as s}from"./index-DVkR6BLR.js";const a=(e,t)=>{const r=e.__vccOpts||e;for(const[c,n]of t)r[c]=n;return r},_={};function f(e,t){return s(),o("h3",null,"Tarefas e Lembretes")}const m=a(_,[["render",f]]);export{m as default};
