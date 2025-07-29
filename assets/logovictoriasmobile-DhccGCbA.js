@@ -1,0 +1,1 @@
+import{c as e,h as a}from"./index-0G6laB72.js";const t=e({name:"QSpace",setup(){const s=a("div",{class:"q-space"});return()=>s}}),c="/AgendaOnline/assets/logovictoriasmobile-GuB70kzw.png";export{t as Q,c as _};

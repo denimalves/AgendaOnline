@@ -1,0 +1,1 @@
+import{a as n}from"./use-quasar-BZ98rS4_.js";function o(){const{listar:a,inserir:r,atualizar:e,excluir:i,getById:t}=n("agendamentos");return{listar:a,inserir:r,atualizar:e,excluir:i,getById:t}}export{o as a};
